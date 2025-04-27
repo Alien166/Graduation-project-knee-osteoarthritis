@@ -71,7 +71,7 @@ Learning** and **Streamlit** works?
 ### Clone this repository
 
 ```shell
-(base)$: git clone git@github.com:mafda/knee_OA_dl_app.git
+(base)$: git clone https://github.com/Alien166/Graduation-project-knee-osteoarthritis.git
 (base)$: cd knee_OA_dl_app
 ```
 
