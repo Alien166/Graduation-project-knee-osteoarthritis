@@ -1,0 +1,158 @@
+{
+  "auth": {
+    "signup": {
+      "title": "Create Your Account",
+      "subtitle": "Join our platform to access advanced knee osteoarthritis prediction tools and expert medical insights.",
+      "formTitle": "Sign Up",
+      "formSubtitle": "Fill in your details to create your account",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "password": "Password",
+      "passwordPlaceholder": "Create a strong password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Re-enter your password",
+      "agreeToTerms": "I agree to the Terms of Service and Privacy Policy",
+      "submit": "Create Account",
+      "haveAccount": "Already have an account?",
+      "loginLink": "Sign in",
+      "benefits": {
+        "title": "Why Join Us?",
+        "subtitle": "Experience the future of knee health management with our comprehensive platform",
+        "security": {
+          "title": "Secure & Private",
+          "description": "Your data is encrypted and protected with enterprise-grade security measures"
+        },
+        "features": {
+          "title": "Advanced Features",
+          "description": "Access cutting-edge AI prediction tools and comprehensive health analytics"
+        },
+        "support": {
+          "title": "Expert Support",
+          "description": "Get assistance from medical professionals and technical experts"
+        }
+      }
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "subtitle": "Don't worry, we'll help you recover your password",
+      "formTitle": "Reset Your Password",
+      "formSubtitle": "Enter your email address and we'll send you instructions to reset your password",
+      "emailPlaceholder": "Enter your email address",
+      "submitButton": "Send Reset Link",
+      "rememberPassword": "Remember your password?",
+      "backToLogin": "Back to Login",
+      "successTitle": "Check Your Email",
+      "successMessage": "We've sent password reset instructions to your email address. Please check your inbox and follow the instructions to reset your password.",
+      "security": {
+        "title": "Secure Password Reset",
+        "description": "We take your account security seriously. Our password reset process is designed to be both secure and user-friendly.",
+        "steps": {
+          "title": "Simple Process",
+          "description": "Enter your email, receive a secure link, and follow the instructions to create a new password."
+        },
+        "protection": {
+          "title": "Secure & Protected",
+          "description": "Your password reset link is encrypted and will expire after 24 hours for your security."
+        }
+      }
+    },
+    "loginTitle": "Welcome Back",
+    "welcomeBack": "Sign in to access your account and continue your knee health journey",
+    "emailPlaceholder": "Enter your email address",
+    "passwordPlaceholder": "Enter your password",
+    "rememberMe": "Remember me",
+    "forgotPasswordLink": "Forgot password?",
+    "noAccount": "Don't have an account?",
+    "signupLink": "Sign up",
+    "signupTitle": "Create Your Account",
+    "signupDescription": "Join our platform to access advanced knee osteoarthritis prediction tools and expert medical insights",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Re-enter your password",
+    "agreeToTerms": "I agree to the Terms of Service and Privacy Policy",
+    "resetPasswordTitle": "Reset Your Password",
+    "resetPasswordDescription": "Create a new password for your account",
+    "newPasswordPlaceholder": "Enter your new password",
+    "confirmNewPassword": "Confirm New Password",
+    "confirmNewPasswordPlaceholder": "Re-enter your new password",
+    "resetPassword": "Reset Password",
+    "rememberPassword": "Remember your password?",
+    "backToLogin": "Back to Login",
+    "passwordResetSuccess": "Password Reset Successful",
+    "passwordResetRedirect": "You will be redirected to the login page in a few seconds...",
+    "resetPassword": {
+      "benefits": {
+        "security": {
+          "title": "Secure Password Reset",
+          "description": "We take your account security seriously. Our password reset process is designed to be both secure and user-friendly."
+        },
+        "secure": {
+          "title": "Secure Process",
+          "description": "Your password reset link is encrypted and will expire after 24 hours for your security."
+        },
+        "protection": {
+          "title": "Protected Account",
+          "description": "Your account is protected with industry-standard security measures."
+        }
+      }
+    }
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPassword": "Password must be at least 8 characters long and contain at least one uppercase letter, one lowercase letter, one number, and one special character (#?!@$%^&*-)",
+    "passwordMismatch": "Passwords do not match",
+    "termsRequired": "You must agree to the terms and conditions",
+    "serverError": "An error occurred. Please try again later",
+    "invalidResetLink": "Invalid or expired reset link"
+  },
+  "common": {
+    "loading": "Loading...",
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "error": "Error",
+    "success": "Success",
+    "back": "Back",
+    "next": "Next",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "language": "Language",
+    "name": "Full Name",
+    "newPassword": "New Password"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "predict": "Predict",
+    "history": "History"
+  },
+  "prediction": {
+    "details": "Prediction Details",
+    "date": "Date",
+    "result": "Result",
+    "confidence": "Confidence Level",
+    "analysis": "Analysis",
+    "severity": "Severity",
+    "recommendations": "Recommendations",
+    "notes": "Additional Notes",
+    "image": "X-Ray Image",
+    "imageAlt": "Knee X-Ray Image"
+  },
+  "error": {
+    "title": "Error"
+  }
+}

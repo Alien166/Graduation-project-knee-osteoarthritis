@@ -1,0 +1,668 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "logout": "Logout",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "back": "Back",
+    "next": "Next",
+    "confirm": "Confirm",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "language": "Language",
+    "share": "Share",
+    "exportImage": "Export Image",
+    "exportPDF": "Export Pdf",
+    "shareLink": "Share Link",
+    "newPassword": "New Password",
+    "about": "About",
+    "contact": "Contact",
+    "features": "Features"
+  },
+  "footer": {
+    "address": "10 Tahrir Street, Tahrir Square, Downtown, Cairo Governorate, Arab Republic of Egypt",
+    "description": "KneeAI is dedicated to bringing you state-of-the-art knee-injury prediction and analytics.",
+    "rights": "All rights reserved. "
+  },
+  "social": {
+    "facebook": "Facebook",
+    "twitter": "Twitter",
+    "instagram": "Instagram",
+    "linkedin": "LinkedIn"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "settings": "Settings",
+    "predict": "Predict",
+    "history": "History"
+  },
+  "auth": {
+    "loginTitle": "Login to your account",
+    "signupTitle": "Create new account",
+    "welcomeBack": "Welcome back! Please enter your details.",
+    "joinUs": "Join us to start your AI-powered knee analysis",
+    "forgotPasswordLink": "Forgot Password?",
+    "rememberMe": "Remember me",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "signupLink": "Sign up here",
+    "loginLink": "Login here",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "confirmPassword": "Confirm Password",
+    "agreeToTerms": "I agree to the",
+    "termsOfService": "Terms of Service",
+    "and": "and",
+    "privacyPolicy": "Privacy Policy",
+    "emailPlaceholder": "Enter your email",
+    "passwordPlaceholder": "Enter your password",
+    "firstNamePlaceholder": "John",
+    "lastNamePlaceholder": "Doe",
+    "confirmPasswordPlaceholder": "Confirm your password",
+    "resetPasswordTitle": "Reset Your Password",
+    "resetPasswordDescription": "Enter your new password below and confirm it to reset your account password.",
+    "newPasswordPlaceholder": "Enter new password",
+    "confirmNewPassword": "Confirm New Password",
+    "confirmNewPasswordPlaceholder": "Re-enter your new password",
+    "rememberPassword": "Remember your password?",
+    "backToLogin": "Back to login",
+    "passwordResetSuccess": "Password reset successfully!",
+    "passwordResetRedirect": "You will be redirected to the login page shortly.",
+    "signup": {
+      "title": "Create Your Account",
+      "subtitle": "Join our platform to access advanced knee osteoarthritis prediction tools and expert medical insights.",
+      "formTitle": "Sign Up",
+      "formSubtitle": "Fill in your details to create your account",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "email": "Email Address",
+      "emailPlaceholder": "Enter your email address",
+      "password": "Password",
+      "passwordPlaceholder": "Create a strong password",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Re-enter your password",
+      "agreeToTerms": "I agree to the Terms of Service and Privacy Policy",
+      "submit": "Create Account",
+      "haveAccount": "Already have an account?",
+      "loginLink": "Sign in",
+      "benefits": {
+        "title": "Why Join Us?",
+        "subtitle": "Experience the future of knee health management with our comprehensive platform",
+        "security": {
+          "title": "Secure & Private",
+          "description": "Your data is encrypted and protected with enterprise-grade security measures"
+        },
+        "features": {
+          "title": "Advanced Features",
+          "description": "Access cutting-edge AI prediction tools and comprehensive health analytics"
+        },
+        "support": {
+          "title": "Expert Support",
+          "description": "Get assistance from medical professionals and technical experts"
+        }
+      }
+    },
+    "forgotPassword": {
+      "title": "Forgot Password",
+      "subtitle": "Don't worry, we'll help you recover your password",
+      "formTitle": "Reset Your Password",
+      "formSubtitle": "Enter your email address and we'll send you instructions to reset your password",
+      "emailPlaceholder": "Enter your email address",
+      "submitButton": "Send Reset Link",
+      "rememberPassword": "Remember your password?",
+      "backToLogin": "Back to Login",
+      "successTitle": "Check Your Email",
+      "successMessage": "We've sent password reset instructions to your email address. Please check your inbox and follow the instructions to reset your password.",
+      "benefits": {
+        "security": {
+          "title": "Your Security Matters",
+          "description": "Resetting your password helps keep your account secure. We ensure this process is both safe and reliable."
+        },
+        "secure": {
+          "title": "Secure Recovery",
+          "description": "We follow industry standards to ensure your password reset process is protected and private."
+        },
+        "quick": {
+          "title": "Quick Access",
+          "description": "You’ll receive the reset link in moments to get back into your account swiftly."
+        }
+      }
+    },
+    "resetPassword": {
+      "title": "Reset Your Password",
+      "subtitle": "Create a new password for your account",
+      "formTitle": "Create New Password",
+      "formSubtitle": "Please enter your new password and confirm it",
+      "newPasswordPlaceholder": "Enter new password",
+      "confirmPasswordPlaceholder": "Confirm new password",
+      "submitButton": "Reset Password",
+      "backToLogin": "Back to Login",
+      "successTitle": "Password Reset Successful",
+      "successMessage": "Your password has been reset successfully. You will be redirected to login.",
+      "forgotPasswordTitle": "Forgot Your Password?",
+      "forgotPasswordDescription": "Enter your email address and we'll send you a link to reset your password.",
+      "resetEmailSent": "Reset Link Sent!",
+      "resetEmailInstructions": "Please check your email for the password reset instructions.",
+      "emailPlaceholder": "Enter your email address",
+      "sendResetLink": "Send Reset Link",
+      "rememberPassword": "Remember your password?",
+      "security": {
+        "title": "Secure Password Reset",
+        "description": "We take your account security seriously. Your new password will be encrypted and protected.",
+        "steps": {
+          "title": "Simple Process",
+          "description": "Enter your new password, confirm it, and you're all set to log in with your new credentials."
+        },
+        "protection": {
+          "title": "Secure & Protected",
+          "description": "Your password is encrypted and protected with industry-standard security measures."
+        }
+      },
+      "benefits": {
+        "security": {
+          "title": "Your Security is Our Priority",
+          "description": "Resetting your password helps keep your account safe and secure."
+        },
+        "secure": {
+          "title": "Secure Authentication",
+          "description": "Ensure your account is protected with strong, encrypted credentials."
+        },
+        "protection": {
+          "title": "Advanced Protection",
+          "description": "Our system monitors for suspicious activities and secures your data."
+        }
+      }
+    }
+  },
+  "verifyEmail": {
+    "title": "Verify Your Email",
+    "subtitle": "Please enter the verification code sent to your email address",
+    "formTitle": "Enter Verification Code",
+    "formSubtitle": "We've sent a 6-digit code to your email address",
+    "verifyButton": "Verify Email",
+    "successTitle": "Email Verified Successfully",
+    "successMessage": "Your email has been verified. You will be redirected to login.",
+    "resendCountdown": "Resend in {{count}}s",
+    "resend": "Resend Code",
+    "security": {
+      "title": "Secure Account Verification",
+      "description": "We take your account security seriously. Email verification helps us ensure the security of your account.",
+      "steps": {
+        "title": "Simple Process",
+        "description": "Enter the 6-digit code sent to your email to complete the verification process."
+      },
+      "protection": {
+        "title": "Secure & Protected",
+        "description": "Your verification code is encrypted and will expire after 10 minutes for your security."
+      }
+    }
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": {
+      "title": "Welcome back, {{name}}!",
+      "description": "Here's an overview of your knee osteoarthritis analysis activity.",
+      "lastLogin": "Last login:"
+    },
+    "quickActions": {
+      "title": "Start New Analysis",
+      "description": "Upload a knee X-ray image to get instant AI-powered analysis and detailed insights about potential osteoarthritis conditions.",
+      "uploadButton": "Upload X-ray",
+      "viewHistory": "View History"
+    },
+    "stats": {
+      "totalPredictions": {
+        "title": "Total Predictions",
+        "description": "All time predictions"
+      },
+      "thisMonth": {
+        "title": "This Month",
+        "description": "Predictions this month"
+      },
+      "accuracyRate": {
+        "title": "Accuracy Rate",
+        "description": "AI model accuracy"
+      },
+      "accountStatus": {
+        "title": "Account Status",
+        "value": "Active",
+        "description": "Premium features enabled",
+        "trend": "Premium"
+      }
+    },
+    "recentPredictions": {
+      "title": "Recent Predictions",
+      "description": "Your latest osteoarthritis analysis results",
+      "viewAll": "View All Predictions",
+      "confidence": "confidence"
+    },
+    "quickLinks": {
+      "title": "Quick Actions",
+      "description": "Commonly used features and settings",
+      "newPrediction": "New Prediction",
+      "predictionHistory": "Prediction History",
+      "accountSettings": "Account Settings",
+      "preferences": "Preferences"
+    }
+  },
+  "predict": {
+    "title": "AI Knee Osteoarthritis Prediction",
+    "subtitle": "Upload your knee X-ray image for instant AI-powered osteoarthritis detection and analysis",
+    "uploadImage": "Upload X-ray Image",
+    "selectImage": "Select Image",
+    "result": "Prediction Result",
+    "probability": "Probability",
+    "recommendation": "Recommendation",
+    "uploadNew": "Upload New Image",
+    "upload": {
+      "title": "Upload X-ray Image",
+      "subtitle": "Drop an image or click to choose a file (supported: JPG, PNG, DICOM; max 5 MB).",
+      "dragActive": "Drop the image here",
+      "dragInactive": "Drop your X-ray image here or click to choose",
+      "supportedFormats": "Supported formats: JPG, PNG, DICOM; max 5 MB."
+    },
+    "analyze": "Analyze Image",
+    "analyzing": "Analyzing image...",
+    "errors": {
+      "invalidFileType": "Invalid file type; please upload an image (JPG, PNG, or DICOM).",
+      "fileTooLarge": "File size is too large; the maximum is 5 MB.",
+      "analysisFailed": "Image analysis failed; please try again."
+    },
+    "results": {
+      "title": "Analysis Results",
+      "subtitle": "AI-powered knee osteoarthritis prediction results",
+      "prediction": "Prediction",
+      "confidence": "Confidence",
+      "recommendations": "Recommendations",
+      "downloadReport": "Download Report",
+      "viewDetails": "View Details",
+      "empty": {
+        "title": "No Results",
+        "description": "Upload an X-ray image and click \"Analyze Image\" to get your results."
+      }
+    }
+  },
+  "history": {
+    "title": "Prediction History",
+    "subtitle": "Track and analyze your knee osteoarthritis prediction history",
+    "overview": "Overview",
+    "analysis": "Analysis",
+    "details": "Details",
+    "totalPredictions": "Total Predictions",
+    "improvingCases": "Improving Cases",
+    "decliningCases": "Declining Cases",
+    "stableCases": "Stable Cases",
+    "dataVisualization": "Data Visualization",
+    "interactiveCharts": "Interactive charts and analysis of your prediction data",
+    "detailedAnalysis": "Detailed Analysis Results",
+    "comprehensiveView": "Comprehensive view of all predictions and their details",
+    "dateTime": "Date & Time",
+    "filename": "Filename",
+    "result": "Result",
+    "confidence": "Confidence",
+    "severity": "Severity",
+    "status": "Status",
+    "trend": "Trend",
+    "actions": "Actions",
+    "refreshData": "Refresh Data",
+    "export": "Export",
+    "exportFormat": "Export Format",
+    "pdfReport": "PDF Report",
+    "csvData": "CSV Data",
+    "excelSpreadsheet": "Excel Spreadsheet",
+    "share": "Share",
+    "print": "Print",
+    "viewSettings": "View Settings",
+    "viewDetails": "View Details",
+    "downloadReport": "Download Report",
+    "shareResults": "Share Results",
+    "delete": "Delete",
+    "predictionDetails": "Prediction Details",
+    "recommendations": "Recommendations",
+    "trendAnalysis": "Trend Analysis",
+    "printReport": "Print Report",
+    "downloadFullReport": "Download Full Report",
+    "statuses": {
+      "completed": "Completed",
+      "processing": "Processing",
+      "failed": "Failed"
+    },
+    "severityLevels": {
+      "none": "None",
+      "mild": "Mild",
+      "moderate": "Moderate",
+      "severe": "Severe"
+    }
+  },
+  "profile": {
+    "title": "Profile",
+    "personalInfo": "Personal Information",
+    "changePassword": "Change Password",
+    "currentPassword": "Current Password",
+    "newPassword": "New Password",
+    "confirmPassword": "Confirm Password",
+    "updateProfile": "Update Profile",
+    "deleteAccount": "Delete Account"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "invalidPassword": "Password must be at least 8 characters long",
+    "passwordMismatch": "Passwords do not match",
+    "termsRequired": "You must agree to the terms and conditions",
+    "serverError": "An error occurred. Please try again.",
+    "networkError": "Network error. Please check your connection.",
+    "unauthorized": "Unauthorized access",
+    "invalidCode": "Please enter a valid 6-digit code",
+    "invalidResetLink": "Invalid or expired password reset link."
+  },
+  "home": {
+    "hero": {
+      "title": "AI-Powered Knee Osteoarthritis Detection",
+      "subtitle": "Get instant, accurate predictions for knee osteoarthritis using cutting-edge artificial intelligence technology.",
+      "startButton": "Start Free Analysis",
+      "learnMoreButton": "Learn More"
+    },
+    "features": {
+      "title": "Why Choose Our Platform?",
+      "subtitle": "Advanced AI technology meets medical expertise to provide accurate, reliable osteoarthritis detection.",
+      "items": {
+        "upload": {
+          "title": "Easy Upload",
+          "description": "Simply upload your knee X-ray images and get instant AI-powered analysis."
+        },
+        "history": {
+          "title": "History Tracking",
+          "description": "Keep track of all your predictions and monitor progress over time."
+        },
+        "ai": {
+          "title": "Advanced AI",
+          "description": "State-of-the-art machine learning models trained on thousands of X-ray images."
+        },
+        "security": {
+          "title": "Secure & Private",
+          "description": "Your medical data is encrypted and stored securely with full privacy protection."
+        }
+      }
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "subtitle": "Get your results in three simple steps. Fast, accurate, and reliable.",
+      "steps": {
+        "upload": {
+          "title": "Upload X-ray",
+          "description": "Upload your knee X-ray image in JPG, PNG, or DICOM format."
+        },
+        "analysis": {
+          "title": "AI Analysis",
+          "description": "Our advanced AI analyzes the image for signs of osteoarthritis."
+        },
+        "results": {
+          "title": "Get Results",
+          "description": "Receive detailed predictions with confidence scores and recommendations."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Join thousands of healthcare professionals who trust our AI for accurate osteoarthritis detection.",
+      "button": "Start Your Free Analysis"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "info": {
+      "title": "Contact Information",
+      "company": "Company",
+      "address": "Address",
+      "addressContent": "123 Medical Center Drive, Healthcare District, City, Country",
+      "phone": "Phone",
+      "email": "Email"
+    },
+    "hours": {
+      "title": "Business Hours",
+      "weekdays": "Monday - Friday",
+      "weekend": "Saturday - Sunday"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "subject": "Subject",
+      "message": "Your Message",
+      "submit": "Send Message",
+      "successMessage": "Thank you for your message! We'll get back to you soon."
+    },
+    "errors": {
+      "messageTooShort": "Message must be at least 10 characters long"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Revolutionizing Knee Osteoarthritis Detection",
+      "subtitle": "We combine cutting-edge AI technology with medical expertise to provide accurate, accessible, and affordable knee osteoarthritis detection."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "description": "To make advanced medical imaging analysis accessible to everyone, helping healthcare providers and patients make better decisions through AI-powered insights."
+    },
+    "features": {
+      "title": "Why Choose Our Platform?",
+      "ai": {
+        "title": "Advanced AI",
+        "description": "State-of-the-art deep learning models trained on thousands of medical images for accurate detection."
+      },
+      "security": {
+        "title": "Secure & Private",
+        "description": "Enterprise-grade security with end-to-end encryption and strict privacy controls for your medical data."
+      },
+      "research": {
+        "title": "Research-Driven",
+        "description": "Continuously improving our technology through collaboration with leading medical institutions and researchers."
+      },
+      "accuracy": {
+        "title": "High Accuracy",
+        "description": "Our AI models achieve over 95% accuracy in detecting knee osteoarthritis from X-ray images."
+      }
+    },
+    "stats": {
+      "users": "10,000+",
+      "usersLabel": "Healthcare Providers",
+      "accuracy": "95%+",
+      "accuracyLabel": "Detection Accuracy",
+      "predictions": "50,000+",
+      "predictionsLabel": "Successful Predictions"
+    },
+    "team": {
+      "title": "Our Expert Team",
+      "members": {
+        "doctor": {
+          "name": "Dr. Sarah Johnson",
+          "role": "Chief Medical Officer",
+          "description": "Board-certified radiologist with 15+ years of experience in musculoskeletal imaging."
+        },
+        "ai": {
+          "name": "Dr. Michael Chen",
+          "role": "Head of AI",
+          "description": "PhD in Computer Vision with expertise in medical image analysis and deep learning."
+        },
+        "researcher": {
+          "name": "Dr. Emily Rodriguez",
+          "role": "Lead Researcher",
+          "description": "Specialized in osteoarthritis research with multiple published papers in top medical journals."
+        }
+      }
+    },
+    "technology": {
+      "title": "Our Technology",
+      "description": "Our platform leverages the latest advancements in artificial intelligence and medical imaging to provide accurate and reliable knee osteoarthritis detection.",
+      "features": {
+        "deepLearning": "Advanced deep learning models specifically trained for medical image analysis",
+        "imageProcessing": "Sophisticated image processing algorithms for enhanced X-ray analysis",
+        "medicalExpertise": "Validated by leading medical professionals and institutions",
+        "continuousLearning": "Continuous improvement through machine learning and feedback loops"
+      }
+    }
+  },
+  "features": {
+    "hero": {
+      "title": "Advanced Medical Imaging Analysis",
+      "subtitle": "Experience the power of AI-driven knee osteoarthritis detection with our cutting-edge platform."
+    },
+    "main": {
+      "title": "Core Features",
+      "subtitle": "Discover the powerful capabilities that make our platform the leading choice for medical professionals",
+      "ai": {
+        "title": "Advanced AI",
+        "description": "Our state-of-the-art artificial intelligence system combines deep learning with medical expertise to provide accurate and reliable knee osteoarthritis detection.",
+        "benefits": {
+          "accuracy": "95%+ accuracy in detecting knee osteoarthritis",
+          "speed": "Real-time analysis and instant results",
+          "learning": "Continuous improvement through machine learning"
+        }
+      },
+      "security": {
+        "title": "Enterprise Security",
+        "description": "Your medical data is protected with enterprise-grade security measures, ensuring complete privacy and compliance with healthcare regulations.",
+        "benefits": {
+          "encryption": "End-to-end encryption for all data",
+          "compliance": "HIPAA and GDPR compliant",
+          "privacy": "Strict access controls and audit trails"
+        }
+      },
+      "research": {
+        "title": "Research-Driven",
+        "description": "Our technology is continuously validated and improved through collaboration with leading medical institutions and research teams.",
+        "benefits": {
+          "validation": "Clinically validated by medical experts",
+          "collaboration": "Partnerships with leading hospitals",
+          "innovation": "Regular updates based on latest research"
+        }
+      }
+    },
+    "platform": {
+      "title": "Platform Features",
+      "upload": {
+        "title": "Easy Upload",
+        "description": "Simple and secure upload of X-ray images in multiple formats, including DICOM, JPG, and PNG."
+      },
+      "history": {
+        "title": "Prediction History",
+        "description": "Track and analyze all your predictions over time with detailed history and progress monitoring."
+      },
+      "analytics": {
+        "title": "Advanced Analytics",
+        "description": "Comprehensive analytics and insights to help healthcare providers make informed decisions."
+      },
+      "reports": {
+        "title": "Detailed Reports",
+        "description": "Generate detailed reports with visualizations and recommendations for each analysis."
+      },
+      "collaboration": {
+        "title": "Team Collaboration",
+        "description": "Share results and collaborate with other healthcare professionals securely."
+      },
+      "multilingual": {
+        "title": "Multilingual Support",
+        "description": "Full support for multiple languages, making the platform accessible to healthcare providers worldwide."
+      }
+    },
+    "technical": {
+      "title": "Technical Excellence",
+      "performance": {
+        "title": "High Performance",
+        "description": "Optimized for speed and efficiency, delivering results in seconds while maintaining accuracy."
+      },
+      "security": {
+        "title": "Advanced Security",
+        "description": "Multiple layers of security including encryption, authentication, and regular security audits."
+      },
+      "reliability": {
+        "title": "99.9% Uptime",
+        "description": "Built on reliable infrastructure with redundant systems to ensure continuous availability."
+      },
+      "compliance": {
+        "title": "Full Compliance",
+        "description": "Compliant with international healthcare standards and regulations for data protection."
+      }
+    },
+    "cta": {
+      "title": "Ready to Transform Your Medical Imaging?",
+      "description": "Join thousands of healthcare providers who trust our AI-powered platform for accurate knee osteoarthritis detection.",
+      "button": "Start Free Trial"
+    }
+  },
+  "prediction": {
+    "details": "Prediction Details",
+    "image": "X-ray Image",
+    "imageTooltip": "The uploaded knee X-ray image used for analysis",
+    "imageAlt": "Knee X-ray image",
+    "imageError": "Failed to load image",
+    "result": "Prediction Result",
+    "confidence": "Confidence Level",
+    "severity": "Severity Level",
+    "analysis": "Analysis",
+    "recommendations": "Recommendations",
+    "notes": "Medical Notes",
+    "share": "Share Results",
+    "export": "Export",
+    "print": "Print Report",
+    "shareTooltip": "Share these results with your healthcare provider",
+    "exportFormat": "Export Format",
+    "pdfReport": "PDF Report",
+    "imageExport": "Export Image",
+    "printTooltip": "Print a detailed report of the analysis",
+    "unknown": "Unknown",
+    "severe": "Severe",
+    "moderate": "Moderate",
+    "minimal": "Minimal",
+    "doubtful": "Doubtful",
+    "healthy": "Healthy",
+    "urgentRecommendations": "Urgent Medical Recommendations",
+    "recommendationsItem": {
+      "healthy": {
+        "exercise": "Engage in regular physical activity",
+        "diet": "Maintain a balanced diet"
+      },
+      "doubtful": {
+        "monitor": "Monitor symptoms regularly",
+        "followup": "Schedule periodic checkups"
+      },
+      "minimal": {
+        "physiotherapy": "Follow a physiotherapy regimen",
+        "medication": "Take prescribed medications"
+      },
+      "moderate": {
+        "consult": "Consult with a specialist",
+        "support": "Use support devices if needed"
+      },
+      "severe": {
+        "treatment": "Seek immediate medical treatment",
+        "assistance": "Consider assisted care"
+      },
+      "general": "Follow general medical advice"
+    },
+    "notesItem": {
+      "healthy": "No immediate concerns.",
+      "doubtful": "Keep an eye on symptoms.",
+      "minimal": "Mild condition; regular follow-up advised.",
+      "moderate": "Condition needs active management.",
+      "severe": "High risk; urgent attention required.",
+      "general": "Consult your healthcare provider."
+    }
+  }
+}

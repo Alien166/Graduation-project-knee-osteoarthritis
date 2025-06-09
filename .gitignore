@@ -1,0 +1,6 @@
+.DS_Store
+*.ipynb_checkpoints
+*.hdf5
+*.h5
+./frontend/knee-ai-predict/node_modules
+./graud-project/node_modules
